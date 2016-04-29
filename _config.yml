@@ -1,0 +1,51 @@
+# Basic
+title: Sueway
+subtitle: 总而言之就是我的碎碎念
+welcome_message: 
+description: 黄段子 | 情感剧 | 思考
+creator: 
+
+url: "http://sueway.online"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: About Me, description: About me, url: 'http://sueway.online/2016/01/first/'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: sueway
+    duoshuo: sueway
+    
+# Social
+social:
+    weibo: sueway
+    github: sueway
+    twitter: suewayz
+    mail: zhuangsueway@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
