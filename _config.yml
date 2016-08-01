@@ -25,7 +25,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: About Me, description: About me, url: 'http://sueway.online/2016/01/first/'}
+    - {title: Me, description: About me, url: 'http://sueway.online/2016/01/first/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
