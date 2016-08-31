@@ -1,8 +1,7 @@
 [演示地址戳我](http://sueway.online)
 ---
-###总而言之，就是 Sueway 的碎碎念。
+总而言之，就是 Sueway 的碎碎念。
 
----
 之前在 Github 上弄了一个 Github Pages 。不过嫌弃其有时访问太慢，所以还是在 Coding 上弄了一个 Pages 。
 
 ---
@@ -11,7 +10,7 @@
 
 首先是谢谢。
 
-我叫Sueway。 谢谢你进来这里！#真诚地
+我叫 **Sueway** 。 谢谢你进来这里！#真诚地
 
 关于这个博客。 我必须要来说说几年前自搭博客的痛苦经历。 那时候更新是频繁的，因为没有大事情烦， 我只负责忧愁善感就行。 作为一个性感（啊不对是感性）的双鱼座男生来说， 这本来就是一件不出奇的事情。 但是我尽可能让自己保持在有趣的范围里面。
 
@@ -31,7 +30,6 @@
 
 此博客感谢@Yourtion 、@江儿
 
-博客模板来自[@onevcat] 
-(https://github.com/onevcat/vno-jekyll)
+博客模板来自[@onevcat](https://github.com/onevcat/vno-jekyll)
 
 
